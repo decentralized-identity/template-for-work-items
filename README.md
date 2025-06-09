@@ -7,11 +7,14 @@ This template is for use with DIF Working Group work items creating specificatio
 ## Template Instructions
 
 - Find/replace "template-for-work-items" with work item name
-- Update content in AGENDA.md and [set up hackmd integration](https://hackmd.io/s/link-with-github)
-  - Make sure you add the hackmd badge to the AGENDA.md file
+- Update content in AGENDA.md
+  - Note all areas with a "??" and update those
 - Update CONTRIBUTING.md with any group-specific processes
 - Update the README (all content and links in this file)
-- Update github repo settings, including tags
+  - Remove "Template Instructions" (this section)
+- Update github repo settings
+  - Turn on github pages for spec web site
+  - Add WG tags
 
 ## [Latest Editor's Draft](https://identity.foundation/template-for-work-items/)
 
@@ -25,4 +28,4 @@ npm run edit
 npx serve build
 ```
 
-Visit http://localhost:5000/
+Visit http://localhost:3000/

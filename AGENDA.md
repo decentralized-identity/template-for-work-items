@@ -1,6 +1,6 @@
 # template-for-work-items - rolling agenda & minutes
 
-[**WG projects** ](https://github.com/decentralized-identity?q=wg-cc&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/claims-credentials.html) | [Mailing list and Wiki ](https://lists.identity.foundation/g/cc-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1252135265)
+[**WG projects** ](https://github.com/decentralized-identity?q=wg-??&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/??.html) | [Mailing list and Wiki ](https://lists.identity.foundation/g/??) | [Meeting recordings](https://identity.foundation/recordings)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
@@ -11,9 +11,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 <summary> Meeting information </summary>
 
 * Before you contribute - [**join DIF**](https://identity.foundation/join) and [sign the WG charter](https://bit.ly/DIF-WG-select1) (both are required!) 
-* Time: TODO
-* [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=NnBnMW43NmRib3YwNDI3dXA5ZW8xOHVlbjZfMjAyMDExMDNUMjAwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
-* [Zoom room]()
+* [Group information](https://identity.foundation/working-groups/??.html)
 </details>
 
  
@@ -32,7 +30,8 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 
 ## Meeting Template 
 1. Welcome and introductions
-2. [WG participation tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+2. IPR & membership check
 3. Review of issues and pull requests
 4. Main topics
-5. Action
+5. Action items
+
